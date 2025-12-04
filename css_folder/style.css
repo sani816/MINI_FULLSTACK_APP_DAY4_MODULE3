@@ -1,0 +1,13 @@
+body{
+    background-color: aquamarine;
+    font-style: italic;
+    padding: 20px;
+    input{padding: 10px;}
+    button{
+        padding: 10px 15px;
+
+        li{
+            margin: 5px 0;
+        }
+    }
+}
